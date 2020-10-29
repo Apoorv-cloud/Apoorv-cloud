@@ -51,7 +51,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Apoorv-cloud&show_icons=true&count_private=true&show_icons=true&hide=php&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Apoorv-cloud" />
 </p>
 
-
+<br><br>
 [![trophy](https://github-profile-trophy.vercel.app/?username=Apoorv-cloud&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 
