@@ -1,13 +1,13 @@
-<h1 align="center"> Hola, I'm Apoorv Maheshwari! 👋 </h1>
-<h3 align="center">A very passionate developer since my youngest age, from Aligarh, Uttar Pradesh.</h3><br><br>
+![Hello](Hello.gif)
 
-- 🌱&nbsp;&nbsp;I’m currently learning **tons of things about tons of stuff (grind grind grind)**
-- 💬&nbsp;&nbsp;Ask me about **Anything**
-- 📫&nbsp;&nbsp;How to reach me [LinkedIn](https://www.linkedin.com/in/apoorv-maheshwari-6689791aa/)  or open a Github issue [here](https://github.com/Apoorv-cloud/Apoorv-cloud/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc)
 
-- 😄&nbsp;&nbsp;Pronouns: **He/Him**
-- ⚡&nbsp;&nbsp;Fun fact: **I am half Finished!**
+## I'm a Sophomore!
 
+- 🔭 I’m currently working on Flutter!
+- 🌱 Want to learn everything 🤣
+- 👯 I’m looking to collaborate with others having same interest as of mine.
+- 🥅 2020 Goals: Contribute more to Open Source projects.
+- ⚡ Fun fact: I am half Finished!
 
 
 
@@ -20,7 +20,7 @@
 
 
 
-### Tech Stack
+### Languages and Tools
 
 <p align="left">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>&nbsp;&nbsp;
@@ -41,18 +41,8 @@
 </p><br>
 
 
-
-### Github Statistics
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apoorv-cloud&layout=compact&hide=php,smarty&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Apoorv-cloud" /></p>
-
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Apoorv-cloud&show_icons=true&count_private=true&show_icons=true&hide=php&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Apoorv-cloud" />
-</p>
-
-<br><br>
-[![trophy](https://github-profile-trophy.vercel.app/?username=Apoorv-cloud&row=1)](https://github.com/ryo-ma/github-profile-trophy)<br><br>
+### Spotify Playing 🎧
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Apoorv Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
 
 ### Social
@@ -66,6 +56,26 @@
   <a href="https://www.linkedin.com/in/apoorv-maheshwari-6689791aa/" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ambroise-dhenain" height="30" width="30" />
   </a>&nbsp;&nbsp;&nbsp;
-	
+  <a href="https://instagram.com/maheshwari__apoorv?igshid=35jid2u2ui83" target="blank">	
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  </a>&nbsp;&nbsp;&nbsp; </p>
+
+<br />
+<br />
+
+---
+
+
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apoorv-cloud&layout=compact&hide=php,smarty&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Apoorv-cloud" /></p>
+
+![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=Apoorv-cloud&count_private=true&show_icons=true&theme=radical)
+
+
+<br><br>
+[![trophy](https://github-profile-trophy.vercel.app/?username=Apoorv-cloud&row=1)](https://github.com/ryo-ma/github-profile-trophy)<br><br>
+
+
 
 
