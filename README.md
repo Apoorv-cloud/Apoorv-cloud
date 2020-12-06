@@ -91,7 +91,7 @@
     <img src="https://img.shields.io/github/forks/ryo-ma/github-profile-trophy"/> 
   </a>  
   <a href="https://github.com/Apoorv-cloud/github-profile-trophy/stargazers">
-    <img src="https://img.shields.io/github/stars/ryo-ma/github-profile-trophy"/> 
+    <img src="https://img.shields.io/github/stars/Apoorv-cloud/github-profile-trophy"/> 
   </a>
     <a href="https://github.com/Apoorv-cloud/github-profile-trophy/LICENSE">
     <img src="https://img.shields.io/github/license/Apoorv-cloud/github-profile-trophy"/> 
