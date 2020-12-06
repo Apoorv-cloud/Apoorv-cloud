@@ -88,7 +88,7 @@
     <img src="https://img.shields.io/github/commits/Apoorv-cloud/github-profile-trophy"/> 
   </a>
   <a href="https://github.com/Apoorv-cloud/github-profile-trophy/network/members">
-    <img src="https://img.shields.io/github/w3c-validation/Apoorv-cloud/github-profile-trophy"/> 
+    <img src="https://img.shields.io/github/sonar/test_success_density/github-profile-trophy"/> 
   </a>  
   <a href="https://github.com/Apoorv-cloud/github-profile-trophy/stargazers">
     <img src="https://img.shields.io/github/issues-pr/Apoorv-cloud/github-profile-trophy"/> 
