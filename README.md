@@ -87,15 +87,21 @@
   <a href="https://github.com/Apoorv-cloud/github-profile-trophy/issues">
     <img src="https://img.shields.io/github/forks/badges/shields?style=social"/> 
   </a>
+	
   <a href="https://github.com/Apoorv-cloud/github-profile-trophy/network/members">
     <img src="https://img.shields.io/github/commits-since/SubtitleEdit/subtitleedit/latest"/> 
   </a>  
+  <a href="https://github.com/Apoorv-cloud/github-profile-trophy/LICENSE">
+    <img src="https://img.shields.io/mozilla-observatory/grade/github.com?publish"> 
+  </a>
+  
+  <a href="https://github.com/Apoorv-cloud/github-profile-trophy/LICENSE">
+    <img src="https://img.shields.io/npm/l/express"> 
+  </a>
   <a href="https://github.com/Apoorv-cloud/github-profile-trophy/stargazers">
     <img src="https://img.shields.io/amo/stars/dustman"> 
   </a>
-    <a href="https://github.com/Apoorv-cloud/github-profile-trophy/LICENSE">
-    <img src="https://img.shields.io/npm/l/express"> 
-  </a>
+    
 </p>
 <p align="center">
   </a>
