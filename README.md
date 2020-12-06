@@ -88,7 +88,7 @@
     <img src="https://img.shields.io/github/forks/badges/shields?style=social"/> 
   </a>
   <a href="https://github.com/Apoorv-cloud/github-profile-trophy/network/members">
-    <img src="https://img.shields.io/github/sonar/test_success_density/github-profile-trophy"/> 
+    <img src="https://img.shields.io/github/commits-since/SubtitleEdit/subtitleedit/latest"/> 
   </a>  
   <a href="https://github.com/Apoorv-cloud/github-profile-trophy/stargazers">
     <img src="https://img.shields.io/amo/stars/dustman"> 
