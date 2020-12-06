@@ -62,18 +62,6 @@
 ---
 
 
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apoorv-cloud&layout=compact&hide=php&count_private=true&show_icons=true&theme=radical" alt="Apoorv-cloud" /></p>
-
-![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=Apoorv-cloud&count_private=true&show_icons=true&theme=radical)
-
-
-<br><br>
-[![trophy](https://github-profile-trophy.vercel.app/?username=Apoorv-cloud&row=1)](https://github.com/ryo-ma/github-profile-trophy)<br><br>
-
-
-
 <p align="center">
   <img width="140" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" />  
   <h2 align="center">Github Profile Trophy</h2>
