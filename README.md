@@ -61,10 +61,6 @@
   
   <img height="180"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apoorv-cloud&layout=compact&hide=php&count_private=true&show_icons=true&theme=radical" alt="Apoorv-cloud" /> <img height="180" src="https://github-readme-stats.vercel.app/api?username=Apoorv-cloud&count_private=true&show_icons=true&theme=radical" alt="Apoorv-cloud" />
 
-
-
-
-<br />
 <br />
 
 ---
