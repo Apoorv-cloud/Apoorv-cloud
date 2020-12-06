@@ -54,7 +54,8 @@
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://instagram.com/maheshwari__apoorv?igshid=35jid2u2ui83" target="blank">	
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" height="30" width="30" />
-  </a>&nbsp;&nbsp;&nbsp; </p>
+  </a>&nbsp;&nbsp;&nbsp; </p><br />
+<br />
   
   
   <p>
