@@ -94,7 +94,7 @@
     <img src="https://img.shields.io/amo/stars/dustman"> 
   </a>
     <a href="https://github.com/Apoorv-cloud/github-profile-trophy/LICENSE">
-    <img src="https://img.shields.io/github/license"/> 
+    <img src="https://img.shields.io/npm/l/express"> 
   </a>
 </p>
 <p align="center">
