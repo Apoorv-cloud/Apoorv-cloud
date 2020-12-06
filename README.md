@@ -13,10 +13,6 @@
 
 ![image](https://github.com/Apoorv-cloud/Apoorv-cloud/blob/main/dino.gif)
 
-<p align="center">
-	<a href="https://github.com/Apoorv-cloud"><img src="https://img.shields.io/badge/github--_.svg?style=social&logo=github" alt="GitHub"></a>
-  <a href="https://www.linkedin.com/in/apoorv-maheshwari-6689791aa/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
-</p><br>
 
 
 
@@ -105,13 +101,10 @@
   
     
 </p>
+
 <p align="center">
-  </a>
-    <a href="https://twitter.com/intent/tweet?text=Add%20dynamically%20generated%20GitHub%20Trophy%20on%20your%20readme%0D%0A&url=https%3A%2F%2Fgithub.com%2Fryo-ma%2Fgithub-profile-trophy">
-    <img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2Fryo-ma%2Fgithub-profile-trophy"/> 
-  </a>
-</p>
-
-
+	<a href="https://github.com/Apoorv-cloud"><img src="https://img.shields.io/badge/github--_.svg?style=social&logo=github" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/apoorv-maheshwari-6689791aa/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+</p><br>
 
 
