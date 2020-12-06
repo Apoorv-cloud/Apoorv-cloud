@@ -85,13 +85,13 @@
 </p>
 <p align="center">
   <a href="https://github.com/Apoorv-cloud/github-profile-trophy/issues">
-    <img src="https://img.shields.io/github/issues/Apoorv-cloud/github-profile-trophy"/> 
+    <img src="https://img.shields.io/github/commits/Apoorv-cloud/github-profile-trophy"/> 
   </a>
   <a href="https://github.com/Apoorv-cloud/github-profile-trophy/network/members">
-    <img src="https://img.shields.io/github/forks/Apoorv-cloud/github-profile-trophy"/> 
+    <img src="https://img.shields.io/github/contributedto/Apoorv-cloud/github-profile-trophy"/> 
   </a>  
   <a href="https://github.com/Apoorv-cloud/github-profile-trophy/stargazers">
-    <img src="https://img.shields.io/github/stars/Apoorv-cloud/github-profile-trophy"/> 
+    <img src="https://img.shields.io/github/prs/Apoorv-cloud/github-profile-trophy"/> 
   </a>
     <a href="https://github.com/Apoorv-cloud/github-profile-trophy/LICENSE">
     <img src="https://img.shields.io/github/license/Apoorv-cloud/github-profile-trophy"/> 
