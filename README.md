@@ -85,7 +85,7 @@
 </p>
 <p align="center">
   <a href="https://github.com/Apoorv-cloud/github-profile-trophy/issues">
-    <img src="https://img.shields.io/github/commits/Apoorv-cloud/github-profile-trophy"/> 
+    <img src="https://img.shields.io/github/forks/badges/shields?style=social"/> 
   </a>
   <a href="https://github.com/Apoorv-cloud/github-profile-trophy/network/members">
     <img src="https://img.shields.io/github/sonar/test_success_density/github-profile-trophy"/> 
