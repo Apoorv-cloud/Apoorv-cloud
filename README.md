@@ -1,7 +1,7 @@
 ![Hello](Hello.gif)
 
-
-## I'm a Sophomore!
+## Apoorv Maheshwari
+### I'm a Sophomore!
 
 - 🔭 I’m currently working on Flutter!
 - 🌱 Want to learn everything 🤣
