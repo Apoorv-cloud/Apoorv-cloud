@@ -100,8 +100,7 @@
   <a href="https://www.linkedin.com/in/apoorv-maheshwari-6689791aa/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 </p><br>
 
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Apoorv-cloud) 
+// ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Apoorv-cloud) 
 <div align="center">
   
   
