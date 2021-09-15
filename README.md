@@ -36,9 +36,10 @@
   </p><br>
 
 
-[//]: # (### Spotify Playing 🎧)
-[//]: # ([<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Apoorv Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b))
-
+<!--- 
+### Spotify Playing 🎧
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Apoorv Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+-->
 
 ### Social
 
@@ -100,8 +101,9 @@
   <a href="https://www.linkedin.com/in/apoorv-maheshwari-6689791aa/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 </p><br>
 
-[//]: # (![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Apoorv-cloud) 
-<div align="center">)
+<!--- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Apoorv-cloud) -->
+
+<div align="center">
   
   
 ### Show ❤️ by 🌟 my [repositories](https://github.com/Apoorv-cloud?tab=repositories)!
