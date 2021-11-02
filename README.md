@@ -46,7 +46,7 @@
 > Want to get in touch?
 
 <p align="center">
-  <a href="https://dev.to/apoorvcloudt" target="blank">
+  <a href="https://dev.to/apoorvcloud" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="Apoorv-cloud" height="30" width="30" />
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/apoorv-maheshwari-6689791aa/" target="blank">
