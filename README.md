@@ -52,6 +52,12 @@
   <a href="https://www.linkedin.com/in/apoorv-maheshwari-6689791aa/" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Apoorv-cloud" height="30" width="30" />
   </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://medium.com/@apoorv-maheshwari" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="Apoorv-cloud" height="30" width="30" />
+  </a>&nbsp;&nbsp;&nbsp;
+	<a href="https://auth.geeksforgeeks.org/user/apoorv__maheshwari/articles" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="Apoorv-cloud" height="30" width="30" />
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="https://instagram.com/maheshwari__apoorv?igshid=35jid2u2ui83" target="blank">	
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="Apoorv-cloud" height="30" width="30" />
   </a>&nbsp;&nbsp;&nbsp; </p><br />
