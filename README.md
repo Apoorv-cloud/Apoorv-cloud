@@ -68,8 +68,9 @@
 <br />
   
   
-  <img height="180" width="400"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apoorv-cloud&layout=compact&hide=php&count_private=true&show_icons=true&theme=radical" alt="Apoorv-cloud" /> <img height="180" width="500" src="https://github-readme-stats.vercel.app/api?username=Apoorv-cloud&count_private=true&show_icons=true&theme=radical" alt="Apoorv-cloud" />
-  
+  <p>
+  <img height="180" width="400"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apoorv-cloud&layout=compact&hide=php&count_private=true&show_icons=true&theme=radical" alt="Apoorv-cloud"/> <img height="180" width="500" src="https://github-readme-stats.vercel.app/api?username=Apoorv-cloud&count_private=true&show_icons=true&theme=radical" alt="Apoorv-cloud" />
+</p>  
 
 <br />
 
