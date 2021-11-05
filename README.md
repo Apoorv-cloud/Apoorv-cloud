@@ -74,10 +74,10 @@
 <table border="0" cellspacing="0" cellpadding="5">
 <tr>  
 <td>
-	<img height="180" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apoorv-cloud&layout=compact&hide=php&count_private=true&show_icons=true&theme=radical" alt="Apoorv-cloud"/>
+	<img align="center" height="180" width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apoorv-cloud&layout=compact&hide=makefile&count_private=true&show_icons=true&theme=radical" alt="Apoorv-cloud" />
 </td> 
 <td>
-	<img height="180" width="500" src="https://github-readme-stats.vercel.app/api?username=Apoorv-cloud&count_private=true&show_icons=true&theme=radical" alt="Apoorv-cloud" /></td>
+	<img align="center" height="180" width="700" src="https://github-readme-stats.vercel.app/api?username=Apoorv-cloud&count_private=true&show_icons=true&theme=radical&hide=issues&include_all_commits=true" alt="Apoorv-cloud" /></td>
 </tr>
 </table>
 </p>
