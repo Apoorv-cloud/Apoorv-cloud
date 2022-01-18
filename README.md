@@ -110,22 +110,23 @@
 </table>
 </p>
 
-
-
 <br/>
 
+<!-- --- -->
 ---
-
 
 
 
 <p align="center">
 	<img src="https://github.com/Apoorv-cloud/Apoorv-cloud/blob/main/github.gif" height="230px" width ="230px">
 
-  <!-- <img width="140" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" />  -->
+  <!-- <img width="140" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" />  
   <h2 align="center">Github Profile Trophy</h2>
   <p align="center">🏆 GitHub PRO Contributor </p>
 </p>
+
+-->
+	
 <p align="center">
 	
 	
@@ -151,17 +152,19 @@
     
 </p>
 
-<p align="center">
+[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Apoorv-cloud)](https://activity-graph.herokuapp.com/graph?username=Apoorv-cloud)
+
+
+<!-- <p align="center">
 	<a href="https://github.com/Apoorv-cloud"><img src="https://img.shields.io/badge/github--_.svg?style=social&logo=github" alt="GitHub"></a>
   <a href="https://www.linkedin.com/in/apoorv-maheshwari-6689791aa/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
-</p><br>
+</p><br> -->
 
-[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Apoorv-cloud)](https://activity-graph.herokuapp.com/graph?username=Apoorv-cloud)
 
 <div align="center">
   
   
-### Show ❤️ by 🌟 my [repositories](https://github.com/Apoorv-cloud?tab=repositories)!
+### Show 💜 by ⭐ my [repositories](https://github.com/Apoorv-cloud?tab=repositories)!
 <p align="Center" >
 
 	
