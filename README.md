@@ -1,12 +1,13 @@
 ![Hello](Hello.gif)
 
 ## Apoorv Maheshwari
-### I'm a Sophomore!
+
+<H3><img src="https://emojis.slackmojis.com/emojis/images/1600706728/10521/meow_code.gif?1600706728" align="center" width="28" /> I'm a Sophomore! </h3>
 
 - 🔭 I’m currently working on Flutter!
-- 🌱 Want to learn everything 🤣
+- 🌱 Want to learn everything 👉👈
 - 👯 I’m looking to collaborate with others having same interest as of mine.
-- 🥅 2021 Goals: Contribute more to Open Source projects.
+- 🥅 2022 Goals: EAT, SLEEP, CODE, REPEAT.
 - ⚡ Fun fact: I am half Finished!
 
 
@@ -15,8 +16,7 @@
 
 
 
-
-### Languages and Tools
+<H3><img src="https://emojis.slackmojis.com/emojis/images/1507582538/3014/technologist.jpg?1507582538" align="center" width="28" /> Languages and Tools </h3>
 
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> &nbsp;&nbsp;
@@ -41,10 +41,11 @@
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Apoorv Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 -->
 
-### Social
+<H3><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center" width="28" /> Social </H3>
 
 > Want to get in touch?
 
+<!--
 <p align="center">
   <a href="https://dev.to/apoorvcloud" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="Apoorv-cloud" height="50" width="45" />
@@ -66,9 +67,37 @@
   </a>&nbsp;&nbsp;&nbsp;
 </p><br />
 <br />
-  
+-->  
+ 
+ 
+ <p align="center">
+  <a href="https://dev.to/apoorvcloud" target="blank">
+    <img align="center" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Apoorv-cloud" height="30"/>
+  </a>
+  <a href="https://www.linkedin.com/in/apoorv-maheshwari-6689791aa/" target="blank">
+    <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Apoorv-cloud" height="30" />
+  </a>
+  <a href="https://medium.com/@apoorv-maheshwari" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Apoorv-cloud" height="30"  />
+  </a>
+	<a href="https://auth.geeksforgeeks.org/user/apoorv__maheshwari/articles" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Geeks%20for%20Geeks-23?logo=GeeksforGeeks&logoColor=white&style=for-the-badge" alt="Apoorv-cloud" height="30"/>
+  </a>
+	<a href="https://play.google.com/store/apps/developer?id=Apoorv_Stuti" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Google%20Play-414141?logo=google-play&logoColor=white&style=for-the-badge" alt="Apoorv-cloud" height="30"  />
+  </a>
+  <a href="https://instagram.com/maheshwari__apoorv?igshid=35jid2u2ui83" target="blank">	
+    <img align="center" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Apoorv-cloud" height="30" />
+  </a>
+<a href="https://www.facebook.com/apoorv.maheshwari.77" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Apoorv-cloud" height="30"  />
+  </a>
+</p><br />
+<br />
 
-
+ 
+ 
+ 
 <p align="center" >
 
 <table border="0" cellspacing="0" cellpadding="5">
