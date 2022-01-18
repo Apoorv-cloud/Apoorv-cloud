@@ -1,13 +1,13 @@
 ![Hello](Hello.gif)
 
-## Apoorv Maheshwari
+<H2>Apoorv Maheshwari <img src="https://emojis.slackmojis.com/emojis/images/1507582538/3014/technologist.jpg?1507582538" align="center" width="28" /> </h2>
 
 <H3><img src="https://emojis.slackmojis.com/emojis/images/1600706728/10521/meow_code.gif?1600706728" align="center" width="28" /> I'm a Sophomore! </h3>
 
 - 🔭 I’m currently working on Flutter!
 - 🌱 Want to learn everything 👉👈
 - 👯 I’m looking to collaborate with others having same interest as of mine.
-- 🥅 2022 Goals: EAT, SLEEP, CODE, REPEAT.
+- 🥅 2022 Goals: Eat, Sleep, Code, Repeat.
 - ⚡ Fun fact: I am half Finished!
 
 
@@ -16,7 +16,7 @@
 
 
 
-<H3><img src="https://emojis.slackmojis.com/emojis/images/1507582538/3014/technologist.jpg?1507582538" align="center" width="28" /> Languages and Tools </h3>
+<H3><img src="https://emojis.slackmojis.com/emojis/images/1619739775/34137/me_too.gif?1619739775" align="center" width="28" /> Languages and Tools </h3>
 
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> &nbsp;&nbsp;
@@ -70,28 +70,27 @@
 -->  
  
  
- <p align="center">
-  <a href="https://dev.to/apoorvcloud" target="blank">
+ <p align="center"><a href="https://dev.to/apoorvcloud" target="blank">
     <img align="center" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Apoorv-cloud" height="30"/>
-  </a>
-  <a href="https://www.linkedin.com/in/apoorv-maheshwari-6689791aa/" target="blank">
+	  </a>
+	  <a href="https://www.linkedin.com/in/apoorv-maheshwari-6689791aa/" target="blank">
     <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Apoorv-cloud" height="30" />
-  </a>
-  <a href="https://medium.com/@apoorv-maheshwari" target="blank">
+	  </a>
+	  <a href="https://medium.com/@apoorv-maheshwari" target="blank">
     <img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Apoorv-cloud" height="30"  />
-  </a>
-	<a href="https://auth.geeksforgeeks.org/user/apoorv__maheshwari/articles" target="blank">
+	  </a>
+	  <a href="https://auth.geeksforgeeks.org/user/apoorv__maheshwari/articles" target="blank">
     <img align="center" src="https://img.shields.io/badge/Geeks%20for%20Geeks-23?logo=GeeksforGeeks&logoColor=white&style=for-the-badge" alt="Apoorv-cloud" height="30"/>
-  </a>
-	<a href="https://play.google.com/store/apps/developer?id=Apoorv_Stuti" target="blank">
+		</a>
+		<a href="https://play.google.com/store/apps/developer?id=Apoorv_Stuti" target="blank">
     <img align="center" src="https://img.shields.io/badge/Google%20Play-414141?logo=google-play&logoColor=white&style=for-the-badge" alt="Apoorv-cloud" height="30"  />
-  </a>
-  <a href="https://instagram.com/maheshwari__apoorv?igshid=35jid2u2ui83" target="blank">	
+		</a>
+		<a href="https://instagram.com/maheshwari__apoorv?igshid=35jid2u2ui83" target="blank">	
     <img align="center" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Apoorv-cloud" height="30" />
-  </a>
-<a href="https://www.facebook.com/apoorv.maheshwari.77" target="blank">
+	  </a>
+	  <a href="https://www.facebook.com/apoorv.maheshwari.77" target="blank">
     <img align="center" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Apoorv-cloud" height="30"  />
-  </a>
+	</a>
 </p><br />
 <br />
 
@@ -121,25 +120,29 @@
 
 
 <p align="center">
-  <img width="140" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" />  
+	<img src="https://github.com/Apoorv-cloud/Apoorv-cloud/blob/main/github.gif" height="230px" width ="230px">
+
+  <!-- <img width="140" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" />  -->
   <h2 align="center">Github Profile Trophy</h2>
   <p align="center">🏆 GitHub PRO Contributor </p>
 </p>
 <p align="center">
-  <a href="https://github.com/Apoorv-cloud/github-profile-trophy/issues">
-    <img src="https://img.shields.io/codacy/coverage/59d607d0e311408885e418004068ea58/master"> 
-  </a>
+	
 	
   <a href="https://github.com/Apoorv-cloud/github-profile-trophy/network/members">
-    <img src="https://img.shields.io/github/commits-since/SubtitleEdit/subtitleedit/latest"/> 
+    <img src="https://img.shields.io/github/commits-since/SubtitleEdit/subtitleedit/latest"> 
   </a>  
+	
+	
   <a href="https://github.com/Apoorv-cloud/github-profile-trophy/LICENSE">
     <img src="https://img.shields.io/mozilla-observatory/grade/github.com?publish"> 
+  </a><a href="https://github.com/Apoorv-cloud/github-profile-trophy/issues">
+    <img src="https://awesome.re/badge.svg"> 
   </a>
-  
   <a href="https://github.com/Apoorv-cloud/github-profile-trophy/stargazers">
     <img src="https://img.shields.io/amo/stars/dustman"> 
   </a>
+	
   
   <a href="https://github.com/Apoorv-cloud/github-profile-trophy/LICENSE">
     <img src="https://img.shields.io/npm/l/express"> 
@@ -153,7 +156,7 @@
   <a href="https://www.linkedin.com/in/apoorv-maheshwari-6689791aa/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 </p><br>
 
-<!--- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Apoorv-cloud) -->
+[GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Apoorv-cloud) 
 
 <div align="center">
   
@@ -161,7 +164,6 @@
 ### Show ❤️ by 🌟 my [repositories](https://github.com/Apoorv-cloud?tab=repositories)!
 <p align="Center" >
 
-<img src="https://github.com/Apoorv-cloud/Apoorv-cloud/blob/main/github.gif" height="230px" width ="230px">
 	
 <!--- <img src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966" height="130px" width ="130px"></p> -->
 
