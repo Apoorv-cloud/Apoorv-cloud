@@ -45,8 +45,8 @@
 
 
 
+<h3><img src="https://github.com/Apoorv-cloud/Apoorv-cloud/blob/main/among.gif" width="35" height="33"> You can help me by Donating </h3>
 
-### 💰You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Pizza-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/apoorv04) 
 
 
