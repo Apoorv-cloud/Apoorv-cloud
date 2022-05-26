@@ -19,7 +19,7 @@
 
 
 
-### 💻Tech Stack
+💻Tech Stack 
 
 ![](https://github-readme-stats.vercel.app/api?username=Apoorv-cloud&count_private=true&show_icons=true&theme=radical&hide=issues&include_all_commits=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Apoorv-cloud&theme=radical)<br/>
@@ -55,25 +55,7 @@
 <p align="center">
 	<img src="https://github.com/Apoorv-cloud/Apoorv-cloud/blob/main/github.gif" height="230px" width ="230px">
 	
-<p align="center">
-  <a href="https://github.com/Apoorv-cloud/github-profile-trophy/network/members">
-    <img src="https://img.shields.io/github/commits-since/SubtitleEdit/subtitleedit/latest"> 
-  </a>  	
-  <a href="https://github.com/Apoorv-cloud/github-profile-trophy/LICENSE">
-    <img src="https://img.shields.io/mozilla-observatory/grade/github.com?publish"> 
-  </a><a href="https://github.com/Apoorv-cloud/github-profile-trophy/issues">
-    <img src="https://awesome.re/badge.svg"> 
-  </a>
-  <a href="https://github.com/Apoorv-cloud/github-profile-trophy/stargazers">
-    <img src="https://img.shields.io/amo/stars/dustman"> 
-  </a>
-  <a href="https://github.com/Apoorv-cloud/github-profile-trophy/LICENSE">
-    <img src="https://img.shields.io/npm/l/express"> 
-  </a>    
-</p>
 
-
----
 
 
   
