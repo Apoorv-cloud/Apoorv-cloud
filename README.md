@@ -19,7 +19,7 @@
 
 
 
-💻Tech Stack 
+<h3><img src="https://github.com/Apoorv-cloud/Apoorv-cloud/blob/main/statistics.gif" width="35" height="30"> Tech Stack </h3>
 
 ![](https://github-readme-stats.vercel.app/api?username=Apoorv-cloud&count_private=true&show_icons=true&theme=radical&hide=issues&include_all_commits=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Apoorv-cloud&theme=radical)<br/>
